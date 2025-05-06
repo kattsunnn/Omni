@@ -1,11 +1,11 @@
 # Omni
 全方位画像のライブラリ
 
-## GeneratePPI.py
+## GeneratePPI
 全方位画像から透視投影画像を作成する関数
 
 ```python
-def GeneratePPI(
+Omni.GeneratePPI(
         img,
         *,
         eyeDirectionXDeg=None,　
